@@ -22,6 +22,19 @@ https://medium.com/@sallyrobotics.blog/a-review-on-orb-slam-2-paper-3554d4fcaa7c
 
 **https://zhuanlan.zhihu.com/p/452256687**
 
+LIO-SAM源码解析：准备篇
+
+https://zhuanlan.zhihu.com/p/352039509
+https://www.zhihu.com/people/lu-tao-43-3/posts?page=2
+
+https://github.com/smilefacehh/LIO-SAM-DetailedNote
+
+论文阅读《LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping》
+
+https://xuwuzhou.top/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB18/
+
+
+
 # guidelines
 
 1. Lidar-visual fusion SLAM
