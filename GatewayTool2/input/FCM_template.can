@@ -1,0 +1,56 @@
+/*@!Encoding:1252*/
+includes
+{
+
+}
+variables
+{
+  
+${message}
+
+
+    
+    
+   //----------------GEN: Define Timer Start-------------------
+
+	${msTimer}
+
+	//----------------GEN: Define Timer End-------------------
+    
+}  
+
+
+
+on Start 
+{
+  PROJ_Init();
+  PROJ_Sim_vehicle_Signals_Init();
+
+}
+
+PROJ_Init ()
+{
+
+	//----------------GEN: Set Timer Start-------------------
+	{
+		${setTimer}
+
+	}
+	//----------------GEN: Set Timer End-------------------
+
+}
+
+${on_timer}
+
+//----------------GEN: On Timer End-------------------
+
+
+
+PROJ_Sim_vehicle_Signals_Init ()
+{
+
+
+${signal}
+
+}
+

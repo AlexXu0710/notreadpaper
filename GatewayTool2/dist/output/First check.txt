@@ -1,0 +1,219 @@
+Checking sheet: Main2VV6
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mapping excel error about empty None:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mapping excel error about Carriage returns and spaces :
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mapping excel error about hexadecimal :
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mapping excel error about Duplicate values :
+Duplicate values in A column (Column 1): ReSideRdrLeDetn157RdrDetnSts, ReSideRdrLeDetn64RdrDetnSts, ReSideRdrLeDetn66RdrDetnSts, ReSideRdrLeDetn140RdrDetnSts, ReSideRdrLeDetn155RdrDetnSts, ReSideRdrLeDetn135RdrDetnSts, ReSideRdrLeDetn170RdrDetnSts, ReSideRdrLeDetn30RdrDetnSts, ReSideRdrLeDetn116RdrDetnSts, ReSideRdrLeDetn5RdrDetnSts, ReSideRdrLeDetn198RdrDetnSts, ReSideRdrLeDetn43RdrDetnSts, ReSideRdrLeDetn10RdrDetnSts, ReSideRdrLeDetn168RdrDetnSts, ReSideRdrLeDetn107RdrDetnSts, ReSideRdrLeDetn126RdrDetnSts, ReSideRdrLeDetn178RdrDetnSts, ReSideRdrLeDetn92RdrDetnSts, ReSideRdrLeDetn200RdrDetnSts, ReSideRdrLeDetn143RdrDetnSts, ReSideRdrLeDetn125RdrDetnSts, ReSideRdrLeDetn196RdrDetnSts, ReSideRdrLeDetn31RdrDetnSts, ReSideRdrLeDetn169RdrDetnSts, ReSideRdrLeDetn69RdrDetnSts, ReSideRdrLeDetn82RdrDetnSts, ReSideRdrLeDetn52RdrDetnSts, ReSideRdrLeDetn195RdrDetnSts, ReSideRdrLeDetn163RdrDetnSts, ReSideRdrLeDetn61RdrDetnSts, ReSideRdrLeDetn160RdrDetnSts, ReSideRdrLeDetn120RdrDetnSts, ReSideRdrLeDetn153RdrDetnSts, ReSideRdrLeDetn70RdrDetnSts, ReSideRdrLeDetn50RdrDetnSts, ReSideRdrLeDetn57RdrDetnSts, ReSideRdrLeDetn186RdrDetnSts, ReSideRdrLeDetn80RdrDetnSts, ReSideRdrLeDetn175RdrDetnSts, ReSideRdrLeDetn24RdrDetnSts, ReSideRdrLeDetn59RdrDetnSts, ReSideRdrLeDetn99RdrDetnSts, ReSideRdrLeDetn20RdrDetnSts, ReSideRdrLeDetn132RdrDetnSts, ReSideRdrLeDetn171RdrDetnSts, ReSideRdrLeDetn164RdrDetnSts, ReSideRdrLeDetn181RdrDetnSts, ReSideRdrLeDetn44RdrDetnSts, ReSideRdrLeDetn14RdrDetnSts, ReSideRdrLeDetn103RdrDetnSts, ReSideRdrLeDetn152RdrDetnSts, ReSideRdrLeDetn190RdrDetnSts, ReSideRdrLeDetn49RdrDetnSts, ReSideRdrLeDetn28RdrDetnSts, ReSideRdrLeDetn71RdrDetnSts, ReSideRdrLeDetn173RdrDetnSts, ReSideRdrLeDetn136RdrDetnSts, ReSideRdrLeDetn161RdrDetnSts, ReSideRdrLeDetn45RdrDetnSts, ReSideRdrLeDetn48RdrDetnSts, ReSideRdrLeDetn53RdrDetnSts, ReSideRdrLeDetn62RdrDetnSts, ReSideRdrLeDetn138RdrDetnSts, ReSideRdrLeDetn199RdrDetnSts, ReSideRdrLeDetn149RdrDetnSts, ReSideRdrLeDetn121RdrDetnSts, ReSideRdrLeDetn110RdrDetnSts, ReSideRdrLeDetn147RdrDetnSts, ReSideRdrLeDetn118RdrDetnSts, ReSideRdrLeDetn151RdrDetnSts, ReSideRdrLeDetn36RdrDetnSts, ReSideRdrLeDetn60RdrDetnSts, ReSideRdrLeDetn87RdrDetnSts, ReSideRdrLeDetn162RdrDetnSts, ReSideRdrLeDetn134RdrDetnSts, ReSideRdrLeDetn88RdrDetnSts, ReSideRdrLeDetn7RdrDetnSts, ReSideRdrLeDetn122RdrDetnSts, ReSideRdrLeDetn23RdrDetnSts, ReSideRdrLeDetn63RdrDetnSts, ReSideRdrLeDetn79RdrDetnSts, ReSideRdrLeDetn8RdrDetnSts, ReSideRdrLeDetn33RdrDetnSts, ReSideRdrLeDetn40RdrDetnSts, ReSideRdrLeDetn114RdrDetnSts, ReSideRdrLeDetn193RdrDetnSts, ReSideRdrLeDetn22RdrDetnSts, ReSideRdrLeDetn133RdrDetnSts, ReSideRdrLeDetn108RdrDetnSts, ReSideRdrLeDetn41RdrDetnSts, ReSideRdrLeDetn12RdrDetnSts, ReSideRdrLeDetn194RdrDetnSts, ReSideRdrLeDetn6RdrDetnSts, ReSideRdrLeDetn127RdrDetnSts, ReSideRdrLeDetn18RdrDetnSts, ReSideRdrLeDetn148RdrDetnSts, ReSideRdrLeDetn35RdrDetnSts, ReSideRdrLeDetn90RdrDetnSts, ReSideRdrLeDetn188RdrDetnSts, ReSideRdrLeDetn67RdrDetnSts, ReSideRdrLeDetn89RdrDetnSts, ReSideRdrLeDetn166RdrDetnSts, ReSideRdrLeDetn42RdrDetnSts, ReSideRdrLeDetn85RdrDetnSts, ReSideRdrLeDetn144RdrDetnSts, ReSideRdrLeDetn156RdrDetnSts, ReSideRdrLeDetn146RdrDetnSts, ReSideRdrLeDetn123RdrDetnSts, ReSideRdrLeDetn112RdrDetnSts, ReSideRdrLeDetn4RdrDetnSts, ReSideRdrLeDetn113RdrDetnSts, ReSideRdrLeDetn16RdrDetnSts, ReSideRdrLeDetn189RdrDetnSts, ReSideRdrLeDetn9RdrDetnSts, ReSideRdrLeDetn191RdrDetnSts, ReSideRdrLeDetn115RdrDetnSts, ReSideRdrLeDetn154RdrDetnSts, ReSideRdrLeDetn13RdrDetnSts, ReSideRdrLeDetn109RdrDetnSts, ReSideRdrLeDetn129RdrDetnSts, ReSideRdrLeDetn167RdrDetnSts, ReSideRdrLeDetn21RdrDetnSts, ReSideRdrLeDetn182RdrDetnSts, ReSideRdrLeDetn3RdrDetnSts, ReSideRdrLeDetn150RdrDetnSts, ReSideRdrLeDetn11RdrDetnSts, ReSideRdrLeDetn34RdrDetnSts, ReSideRdrLeDetn84RdrDetnSts, ReSideRdrLeDetn128RdrDetnSts, ReSideRdrLeDetn180RdrDetnSts, ReSideRdrLeDetn76RdrDetnSts, ReSideRdrLeDetn159RdrDetnSts, ReSideRdrLeDetn119RdrDetnSts, ReSideRdrLeDetn37RdrDetnSts, ReSideRdrLeDetn91RdrDetnSts, ReSideRdrLeDetn46RdrDetnSts, ReSideRdrLeDetn19RdrDetnSts, ReSideRdrLeDetn2RdrDetnSts, ReSideRdrLeDetn117RdrDetnSts, ReSideRdrLeDetn105RdrDetnSts, ReSideRdrLeDetn39RdrDetnSts, ReSideRdrLeDetn74RdrDetnSts, ReSideRdrLeDetn94RdrDetnSts, ReSideRdrLeDetn141RdrDetnSts, ReSideRdrLeDetn142RdrDetnSts, ReSideRdrLeDetn187RdrDetnSts, ReSideRdrLeDetn183RdrDetnSts, ReSideRdrLeDetn172RdrDetnSts, ReSideRdrLeDetn98RdrDetnSts, ReSideRdrLeDetn106RdrDetnSts, ReSideRdrLeDetn58RdrDetnSts, ReSideRdrLeDetn184RdrDetnSts, ReSideRdrLeDetn83RdrDetnSts, ReSideRdrLeDetn27RdrDetnSts, ReSideRdrLeDetn102RdrDetnSts, ReSideRdrLeDetn56RdrDetnSts, ReSideRdrLeDetn38RdrDetnSts, ReSideRdrLeDetn17RdrDetnSts, ReSideRdrLeDetn158RdrDetnSts, ReSideRdrLeDetn86RdrDetnSts, ReSideRdrLeDetn104RdrDetnSts, ReSideRdrLeDetn73RdrDetnSts, ReSideRdrLeDetn137RdrDetnSts, ReSideRdrLeDetn95RdrDetnSts, ReSideRdrLeDetn101RdrDetnSts, ReSideRdrLeDetn130RdrDetnSts, ReSideRdrLeDetn32RdrDetnSts, ReSideRdrLeDetn81RdrDetnSts, ReSideRdrLeDetn1RdrDetnSts, ReSideRdrLeDetn75RdrDetnSts, ReSideRdrLeDetn131RdrDetnSts, ReSideRdrLeDetn29RdrDetnSts, ReSideRdrLeDetn47RdrDetnSts, ReSideRdrLeDetn174RdrDetnSts, ReSideRdrLeDetn26RdrDetnSts, ReSideRdrLeDetn78RdrDetnSts, ReSideRdrLeDetn139RdrDetnSts, ReSideRdrLeDetn111RdrDetnSts, ReSideRdrLeDetn176RdrDetnSts, ReSideRdrLeDetn15RdrDetnSts, ReSideRdrLeDetn177RdrDetnSts, ReSideRdrLeDetn25RdrDetnSts, ReSideRdrLeDetn124RdrDetnSts, ReSideRdrLeDetn145RdrDetnSts, ReSideRdrLeDetn100RdrDetnSts, ReSideRdrLeDetn72RdrDetnSts, ReSideRdrLeDetn96RdrDetnSts, ReSideRdrLeDetn179RdrDetnSts, ReSideRdrLeDetn68RdrDetnSts, ReSideRdrLeDetn185RdrDetnSts, ReSideRdrLeDetn197RdrDetnSts, ReSideRdrLeDetn51RdrDetnSts, ReSideRdrLeDetn65RdrDetnSts, ReSideRdrLeDetn54RdrDetnSts, ReSideRdrLeDetn77RdrDetnSts, ReSideRdrLeDetn165RdrDetnSts, ReSideRdrLeDetn97RdrDetnSts, ReSideRdrLeDetn93RdrDetnSts, ReSideRdrLeDetn55RdrDetnSts, ReSideRdrLeDetn192RdrDetnSts
+Duplicate values in F column (Column 6): S4_SRR_RL_Obj_Timestamps, S4_SRR_RL_Clu_Timestamps
+Checking sheet: VV62Main
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mapping excel error about empty None:
+Cell in Row 26 and Column A is empty (None).
+Cell in Row 27 and Column A is empty (None).
+Cell in Row 28 and Column A is empty (None).
+Cell in Row 29 and Column A is empty (None).
+Cell in Row 30 and Column A is empty (None).
+Cell in Row 31 and Column A is empty (None).
+Cell in Row 32 and Column A is empty (None).
+Cell in Row 33 and Column A is empty (None).
+Cell in Row 34 and Column A is empty (None).
+Cell in Row 35 and Column A is empty (None).
+Cell in Row 36 and Column A is empty (None).
+Cell in Row 37 and Column A is empty (None).
+Cell in Row 38 and Column A is empty (None).
+Cell in Row 39 and Column A is empty (None).
+Cell in Row 40 and Column A is empty (None).
+Cell in Row 41 and Column A is empty (None).
+Cell in Row 42 and Column A is empty (None).
+Cell in Row 43 and Column A is empty (None).
+Cell in Row 44 and Column A is empty (None).
+Cell in Row 45 and Column A is empty (None).
+Cell in Row 46 and Column A is empty (None).
+Cell in Row 47 and Column A is empty (None).
+Cell in Row 48 and Column A is empty (None).
+Cell in Row 49 and Column A is empty (None).
+Cell in Row 50 and Column A is empty (None).
+Cell in Row 51 and Column A is empty (None).
+Cell in Row 52 and Column A is empty (None).
+Cell in Row 53 and Column A is empty (None).
+Cell in Row 26 and Column C is empty (None).
+Cell in Row 27 and Column C is empty (None).
+Cell in Row 28 and Column C is empty (None).
+Cell in Row 29 and Column C is empty (None).
+Cell in Row 30 and Column C is empty (None).
+Cell in Row 31 and Column C is empty (None).
+Cell in Row 32 and Column C is empty (None).
+Cell in Row 33 and Column C is empty (None).
+Cell in Row 34 and Column C is empty (None).
+Cell in Row 35 and Column C is empty (None).
+Cell in Row 36 and Column C is empty (None).
+Cell in Row 37 and Column C is empty (None).
+Cell in Row 38 and Column C is empty (None).
+Cell in Row 39 and Column C is empty (None).
+Cell in Row 40 and Column C is empty (None).
+Cell in Row 41 and Column C is empty (None).
+Cell in Row 42 and Column C is empty (None).
+Cell in Row 43 and Column C is empty (None).
+Cell in Row 44 and Column C is empty (None).
+Cell in Row 45 and Column C is empty (None).
+Cell in Row 46 and Column C is empty (None).
+Cell in Row 47 and Column C is empty (None).
+Cell in Row 48 and Column C is empty (None).
+Cell in Row 49 and Column C is empty (None).
+Cell in Row 50 and Column C is empty (None).
+Cell in Row 51 and Column C is empty (None).
+Cell in Row 52 and Column C is empty (None).
+Cell in Row 53 and Column C is empty (None).
+Cell in Row 26 and Column D is empty (None).
+Cell in Row 27 and Column D is empty (None).
+Cell in Row 28 and Column D is empty (None).
+Cell in Row 29 and Column D is empty (None).
+Cell in Row 30 and Column D is empty (None).
+Cell in Row 31 and Column D is empty (None).
+Cell in Row 32 and Column D is empty (None).
+Cell in Row 33 and Column D is empty (None).
+Cell in Row 34 and Column D is empty (None).
+Cell in Row 35 and Column D is empty (None).
+Cell in Row 36 and Column D is empty (None).
+Cell in Row 37 and Column D is empty (None).
+Cell in Row 38 and Column D is empty (None).
+Cell in Row 39 and Column D is empty (None).
+Cell in Row 40 and Column D is empty (None).
+Cell in Row 41 and Column D is empty (None).
+Cell in Row 42 and Column D is empty (None).
+Cell in Row 43 and Column D is empty (None).
+Cell in Row 44 and Column D is empty (None).
+Cell in Row 45 and Column D is empty (None).
+Cell in Row 46 and Column D is empty (None).
+Cell in Row 47 and Column D is empty (None).
+Cell in Row 48 and Column D is empty (None).
+Cell in Row 49 and Column D is empty (None).
+Cell in Row 50 and Column D is empty (None).
+Cell in Row 51 and Column D is empty (None).
+Cell in Row 52 and Column D is empty (None).
+Cell in Row 53 and Column D is empty (None).
+Cell in Row 26 and Column F is empty (None).
+Cell in Row 27 and Column F is empty (None).
+Cell in Row 28 and Column F is empty (None).
+Cell in Row 29 and Column F is empty (None).
+Cell in Row 30 and Column F is empty (None).
+Cell in Row 31 and Column F is empty (None).
+Cell in Row 32 and Column F is empty (None).
+Cell in Row 33 and Column F is empty (None).
+Cell in Row 34 and Column F is empty (None).
+Cell in Row 35 and Column F is empty (None).
+Cell in Row 36 and Column F is empty (None).
+Cell in Row 37 and Column F is empty (None).
+Cell in Row 38 and Column F is empty (None).
+Cell in Row 39 and Column F is empty (None).
+Cell in Row 40 and Column F is empty (None).
+Cell in Row 41 and Column F is empty (None).
+Cell in Row 42 and Column F is empty (None).
+Cell in Row 43 and Column F is empty (None).
+Cell in Row 44 and Column F is empty (None).
+Cell in Row 45 and Column F is empty (None).
+Cell in Row 46 and Column F is empty (None).
+Cell in Row 47 and Column F is empty (None).
+Cell in Row 48 and Column F is empty (None).
+Cell in Row 49 and Column F is empty (None).
+Cell in Row 50 and Column F is empty (None).
+Cell in Row 51 and Column F is empty (None).
+Cell in Row 52 and Column F is empty (None).
+Cell in Row 53 and Column F is empty (None).
+Cell in Row 26 and Column H is empty (None).
+Cell in Row 27 and Column H is empty (None).
+Cell in Row 28 and Column H is empty (None).
+Cell in Row 29 and Column H is empty (None).
+Cell in Row 30 and Column H is empty (None).
+Cell in Row 31 and Column H is empty (None).
+Cell in Row 32 and Column H is empty (None).
+Cell in Row 33 and Column H is empty (None).
+Cell in Row 34 and Column H is empty (None).
+Cell in Row 35 and Column H is empty (None).
+Cell in Row 36 and Column H is empty (None).
+Cell in Row 37 and Column H is empty (None).
+Cell in Row 38 and Column H is empty (None).
+Cell in Row 39 and Column H is empty (None).
+Cell in Row 40 and Column H is empty (None).
+Cell in Row 41 and Column H is empty (None).
+Cell in Row 42 and Column H is empty (None).
+Cell in Row 43 and Column H is empty (None).
+Cell in Row 44 and Column H is empty (None).
+Cell in Row 45 and Column H is empty (None).
+Cell in Row 46 and Column H is empty (None).
+Cell in Row 47 and Column H is empty (None).
+Cell in Row 48 and Column H is empty (None).
+Cell in Row 49 and Column H is empty (None).
+Cell in Row 50 and Column H is empty (None).
+Cell in Row 51 and Column H is empty (None).
+Cell in Row 52 and Column H is empty (None).
+Cell in Row 53 and Column H is empty (None).
+Cell in Row 26 and Column I is empty (None).
+Cell in Row 27 and Column I is empty (None).
+Cell in Row 28 and Column I is empty (None).
+Cell in Row 29 and Column I is empty (None).
+Cell in Row 30 and Column I is empty (None).
+Cell in Row 31 and Column I is empty (None).
+Cell in Row 32 and Column I is empty (None).
+Cell in Row 33 and Column I is empty (None).
+Cell in Row 34 and Column I is empty (None).
+Cell in Row 35 and Column I is empty (None).
+Cell in Row 36 and Column I is empty (None).
+Cell in Row 37 and Column I is empty (None).
+Cell in Row 38 and Column I is empty (None).
+Cell in Row 39 and Column I is empty (None).
+Cell in Row 40 and Column I is empty (None).
+Cell in Row 41 and Column I is empty (None).
+Cell in Row 42 and Column I is empty (None).
+Cell in Row 43 and Column I is empty (None).
+Cell in Row 44 and Column I is empty (None).
+Cell in Row 45 and Column I is empty (None).
+Cell in Row 46 and Column I is empty (None).
+Cell in Row 47 and Column I is empty (None).
+Cell in Row 48 and Column I is empty (None).
+Cell in Row 49 and Column I is empty (None).
+Cell in Row 50 and Column I is empty (None).
+Cell in Row 51 and Column I is empty (None).
+Cell in Row 52 and Column I is empty (None).
+Cell in Row 53 and Column I is empty (None).
+Cell in Row 26 and Column J is empty (None).
+Cell in Row 27 and Column J is empty (None).
+Cell in Row 28 and Column J is empty (None).
+Cell in Row 29 and Column J is empty (None).
+Cell in Row 30 and Column J is empty (None).
+Cell in Row 31 and Column J is empty (None).
+Cell in Row 32 and Column J is empty (None).
+Cell in Row 33 and Column J is empty (None).
+Cell in Row 34 and Column J is empty (None).
+Cell in Row 35 and Column J is empty (None).
+Cell in Row 36 and Column J is empty (None).
+Cell in Row 37 and Column J is empty (None).
+Cell in Row 38 and Column J is empty (None).
+Cell in Row 39 and Column J is empty (None).
+Cell in Row 40 and Column J is empty (None).
+Cell in Row 41 and Column J is empty (None).
+Cell in Row 42 and Column J is empty (None).
+Cell in Row 43 and Column J is empty (None).
+Cell in Row 44 and Column J is empty (None).
+Cell in Row 45 and Column J is empty (None).
+Cell in Row 46 and Column J is empty (None).
+Cell in Row 47 and Column J is empty (None).
+Cell in Row 48 and Column J is empty (None).
+Cell in Row 49 and Column J is empty (None).
+Cell in Row 50 and Column J is empty (None).
+Cell in Row 51 and Column J is empty (None).
+Cell in Row 52 and Column J is empty (None).
+Cell in Row 53 and Column J is empty (None).
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mapping excel error about Carriage returns and spaces :
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mapping excel error about hexadecimal :
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mapping excel error about Duplicate values :
+Duplicate values in F column (Column 6): ADataRawSafeALat, ADataRawSafeALgt, AgDataRawSafeYawRate

@@ -1,0 +1,76 @@
+/*@!Encoding:1252*/
+includes
+{
+
+}
+variables
+{
+  
+
+
+
+    
+    
+   //----------------GEN: Define Timer Start-------------------
+
+	msTimer PROJ_SendMSGTimer_5ms;
+	msTimer PROJ_SendMSGTimer_10ms;
+	msTimer PROJ_SendMSGTimer_20ms;
+	msTimer PROJ_SendMSGTimer_30ms;
+	msTimer PROJ_SendMSGTimer_40ms;
+	msTimer PROJ_SendMSGTimer_50ms;
+	msTimer PROJ_SendMSGTimer_100ms;
+	msTimer PROJ_SendMSGTimer_200ms;
+	msTimer PROJ_SendMSGTimer_450ms;
+	msTimer PROJ_SendMSGTimer_500ms;
+	msTimer PROJ_SendMSGTimer_1000ms;
+
+	//----------------GEN: Define Timer End-------------------
+    
+}  
+
+
+
+on Start 
+{
+  PROJ_Init();
+  PROJ_Sim_vehicle_Signals_Init();
+
+}
+
+PROJ_Init ()
+{
+
+	//----------------GEN: Set Timer Start-------------------
+	{
+		setTimer (PROJ_SendMSGTimer_5ms,  10);
+		setTimer (PROJ_SendMSGTimer_10ms,  10);
+		setTimer (PROJ_SendMSGTimer_20ms,  10);
+		setTimer (PROJ_SendMSGTimer_30ms,  10);
+		setTimer (PROJ_SendMSGTimer_40ms,  10);
+		setTimer (PROJ_SendMSGTimer_50ms,  10);
+		setTimer (PROJ_SendMSGTimer_100ms,  10);
+		setTimer (PROJ_SendMSGTimer_200ms,  10);
+		setTimer (PROJ_SendMSGTimer_450ms,  10);
+		setTimer (PROJ_SendMSGTimer_500ms,  10);
+		setTimer (PROJ_SendMSGTimer_1000ms,  10);
+
+	}
+	//----------------GEN: Set Timer End-------------------
+
+}
+
+
+
+//----------------GEN: On Timer End-------------------
+
+
+
+PROJ_Sim_vehicle_Signals_Init ()
+{
+
+
+
+
+}
+

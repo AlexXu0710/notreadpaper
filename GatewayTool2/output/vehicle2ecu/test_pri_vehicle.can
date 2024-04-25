@@ -1,0 +1,20 @@
+/*@!Encoding:1252*/
+includes
+{
+  
+}
+
+variables
+{
+  
+float signalvalue1;
+  
+}
+
+
+
+MainTest()
+{
+
+  
+}
